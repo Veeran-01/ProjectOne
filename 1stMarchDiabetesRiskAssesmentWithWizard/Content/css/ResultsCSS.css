@@ -1,0 +1,35 @@
+﻿
+
+
+.container{
+    vertical-align:middle;
+}
+
+.highResult{
+    background-color:lightsalmon;
+    border-color:red;
+    margin-top:50px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.increasedResult{
+    background-color:lightblue;
+    border-color:red;
+    margin-top:50px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.moderateResult{
+    background-color:palegoldenrod;
+    border-color:red;
+    margin-top:50px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.lowResult{
+    background-color:palegreen;
+    border-color:red;
+    margin-top:50px;
+    border-radius: 10px 10px 10px 10px;
+
+}
